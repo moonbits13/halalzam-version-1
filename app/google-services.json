@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668831327752",
+    "project_id": "halalzam",
+    "storage_bucket": "halalzam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668831327752:android:8965557f782132019293bd",
+        "android_client_info": {
+          "package_name": "com.example.halalzam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXlmlsErdIHsS0gtWvzp-QGpPOzr7Wsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home_buttons"
+        />
+
+    <item
+
+        android:title="scanner"
+        android:icon="@drawable/scanner_icon"
+        android:id="@+id/scanner_buttons"
+
+
+        />
+    <item
+
+        android:title="info"
+        android:icon="@drawable/info"
+        android:id="@+id/info_button"
+        />
+
+</menu>
