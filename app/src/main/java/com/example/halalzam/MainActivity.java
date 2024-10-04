@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        home_to_scanner=findViewById(R.id.scan_food_by_label);
+        /*home_to_scanner=findViewById(R.id.scan_food_by_label);
         home_to_scanner.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
 
             }
-        });
+        });*/
 
         home_to_scanner_by_label=findViewById(R.id.scan_food_by_ingredients);
         home_to_scanner_by_label.setOnClickListener(new View.OnClickListener() {
